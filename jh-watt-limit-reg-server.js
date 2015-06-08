@@ -1,5 +1,5 @@
 /*
- *jh-watt-limit-server.js 
+ *jh-watt-limit-reg-server.js 
  *Created by HJH on 2015-06-08 at 17:55
 */
 
